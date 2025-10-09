@@ -1,6 +1,6 @@
 ![Header](https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif)
 
-<h1 align="center">Hey 👋, I'm Jordan</h1>
+<h1 align="center">Hello, I'm Jordan</h1>
 <h3 align="center">Full-Stack Developer • Designer • Creative Technologist</h3>
 
 <p align="center">
