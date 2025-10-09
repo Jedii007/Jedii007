@@ -11,43 +11,45 @@
 
 ---
 
-### 🌍 About
+<div align="center">
+
+### 🌍 About  
 I'm a **Frontend Developer** from **The Gambia**, passionate about creating clean, user-focused interfaces and blending technology with creativity.  
 Currently exploring ways to merge **AI**, **design**, and **code** into seamless digital experiences.
 
 ---
 
-### ⚙️ Tech & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,js,html,css,python,figma,git,vite,postman" />
-</p>
+### ⚙️ Tech & Tools  
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,js,html,css,python,figma,git,vite,postman" />
 
 ---
 
-### 🪄 Recent Work
-**NextGen Agency (Bitcoin Gambia)** - (On-Site, The Gambia) — *Web Developer*  
-→ Designed, built and maintain company’s websites
+### 🪄 Recent Work  
+
+**NextGen Agency (Bitcoin Gambia)** — *Web Developer*  
+→ Designed, built, and maintain company websites  
 → Integrated Next.js workflows for maintainability & speed  
 
-**Minimum Tech LLC** (Remote, USA) — *Full-Stack Developer*  
+**Minimum Tech LLC** — *Full-Stack Developer*  
 → Optimized app performance & load times through caching and refactoring  
 → Built scalable, user-driven solutions across multiple projects  
 
-**Locumator** (Remote, UK) — *Frontend Developer*  
+**Locumator** — *Frontend Developer*  
 → Redesigned UI components, reducing bounce rates by 15%  
 → Integrated React.js workflows for maintainability & speed  
 
 **Finder** — *Founder*  
-→ Job-matching platform connecting 50+ candidates with 14 employers
-→ A creative hub for artists — mixing, mastering, and curating visuals with energy and purpose
+→ Job-matching platform connecting 50+ candidates with 14 employers  
+→ A creative hub for artists — mixing, mastering, and curating visuals with energy and purpose  
 
 ---
 
-### 🎧 Beyond Code
+### 🎧 Beyond Code  
 I run **Synergy**, a creative hub for artists — mixing, mastering, and curating visuals with energy and purpose.  
 Music, design, and tech intersect at my workspace.  
 
-
 ---
 
-<p align="center">✨ <b>Down to build experiences that connect code and creativity?</b> ✨</p>
+✨ **Down to build experiences that connect code and creativity?** ✨  
+
+</div>
