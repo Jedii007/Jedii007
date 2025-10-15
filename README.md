@@ -24,26 +24,6 @@ Currently exploring ways to merge **AI**, **design**, and **code** into seamless
 
 ---
 
-### 🪄 Recent Work  
-
-**NextGen Agency (Bitcoin Gambia)** — *Web Developer*  
-→ Designed, built, and maintain company websites  
-→ Integrated Next.js workflows for maintainability & speed  
-
-**Minimum Tech LLC** — *Full-Stack Developer*  
-→ Optimized app performance & load times through caching and refactoring  
-→ Built scalable, user-driven solutions across multiple projects  
-
-**Locumator** — *Frontend Developer*  
-→ Redesigned UI components, reducing bounce rates by 15%  
-→ Integrated React.js workflows for maintainability & speed  
-
-**Finder** — *Founder*  
-→ Job-matching platform connecting 50+ candidates with 14 employers  
-→ A creative hub for artists — mixing, mastering, and curating visuals with energy and purpose  
-
----
-
 ### 🎧 Beyond Code  
 I run **Synergy**, a creative hub for artists — mixing, mastering, and curating visuals with energy and purpose.  
 Music, design, and tech intersect at my workspace.  
