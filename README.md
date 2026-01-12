@@ -11,7 +11,6 @@
 
 <div align="center">
 
-### 🌍 About  
 I'm a **Frontend Developer**, passionate about creating clean, user-focused interfaces and blending technology with creativity.  
 Currently exploring ways to merge **AI**, **design**, and **code** into seamless digital experiences.
 
