@@ -1,5 +1,4 @@
 ![Header](https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif)
-
 <h1 align="center">A Creative Technologist</h1>
 
 <p align="center">
