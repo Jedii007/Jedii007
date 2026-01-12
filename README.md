@@ -21,7 +21,7 @@ Currently exploring ways to merge **AI**, **design**, and **code** into seamless
 ---
 
 ### Beyond Code  
-I run **Synergyvybes**, a creative hub for artists — mixing, mastering, and curating visuals with energy and purpose.  
+I run **Synergyvybes**, a creative hub for artists. 
 
 Music, design, and tech intersect at my workspace.  
 
