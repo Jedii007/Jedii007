@@ -15,12 +15,12 @@ Currently exploring ways to merge **AI**, **design**, and **code** into seamless
 
 ---
 
-### ⚙️ Tech & Tools  
+### Tech & Tools  
 <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,js,html,css,python,figma,git,vite,postman" />
 
 ---
 
-### 🎧 Beyond Code  
+### Beyond Code  
 I run **Synergyvybes**, a creative hub for artists — mixing, mastering, and curating visuals with energy and purpose.  
 
 Music, design, and tech intersect at my workspace.  
