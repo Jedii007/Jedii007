@@ -28,21 +28,21 @@ into seamless digital experiences.
 
 ### 📊 Profile Views
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jordanbernard007&style=flat&color=lightgrey" />
+  <img src="https://komarev.com/ghpvc/?username=jedii007&style=flat&color=lightgrey" />
 </p>
 
 ---
 
 ### 🧠 Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordanbernard007&layout=compact&theme=transparent&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jedii007&layout=compact&theme=transparent&hide_border=true" />
 </p>
 
 ---
 
 ### 🔥 Contribution Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=jordanbernard007&theme=transparent&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=jedii007&theme=transparent&hide_border=true" />
 </p>
 
 ---
