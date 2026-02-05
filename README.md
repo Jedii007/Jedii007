@@ -22,7 +22,7 @@ Currently exploring ways to merge **AI**, **design**, and **code** into seamless
 
 ### Beyond Code  
 I run **Synergyvybes.com**, a creative hub for artists.
--
+
 Currently building **F1nder.com**, an online marketplace for Gambia’s new era of online shopping.
 
 ---
