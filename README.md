@@ -2,8 +2,6 @@
 
 <h1 align="center">A Creative Technologist...</h1>
 
-<div align="center">
-
 ...passionate about creating clean, user-focused interfaces and blending technology with creativity.  
 Currently exploring ways to merge **AI**, **design**, and **code** into seamless digital experiences.
 
