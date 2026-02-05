@@ -1,5 +1,7 @@
 ![Header](https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif)
 
+<div align="center"> 
+  
 <h1 align="center">A Creative Technologist...</h1>
 
 ...passionate about creating clean, user-focused interfaces and blending technology with creativity.  
