@@ -10,7 +10,7 @@
 
 <div align="center">
 
-....passionate about creating clean, user-focused interfaces and blending technology with creativity.  
+...passionate about creating clean, user-focused interfaces and blending technology with creativity.  
 Currently exploring ways to merge **AI**, **design**, and **code** into seamless digital experiences.
 
 ---
@@ -21,10 +21,11 @@ Currently exploring ways to merge **AI**, **design**, and **code** into seamless
 ---
 
 ### Beyond Code  
-I run **Synergyvybes**, a creative hub for artists. 
-
-Music, design, and tech intersect at my workspace.  
+I run **Synergyvybes.com**, a creative hub for artists. 
+Currently building **F1nder.com**, an online marketplace for Gambia’s new era of online shopping.
 
 ---
+
+Music, design, and tech intersect at my workspace.  
 
 </div>
