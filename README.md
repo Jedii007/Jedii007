@@ -9,8 +9,7 @@ Currently exploring ways to merge **AI**, **design**, and **code** into seamless
 
 ### Tech & Tools  
 <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,js,html,css,python,figma,git,vite,postman" />
-
-
+-
 <p align="center">
   <a href="https://linkedin.com/in/jordanbernard007" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
 </p>
