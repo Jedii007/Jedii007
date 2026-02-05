@@ -1,5 +1,5 @@
 ![Header](https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif)
-<h1 align="center">A Creative Technologist</h1>
+<h1 align="center">A Creative Technologist...</h1>
 
 <p align="center">
   <a href="https://linkedin.com/in/jordanbernard007" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
@@ -10,7 +10,7 @@
 
 <div align="center">
 
-I'm a **FullStack Developer**, passionate about creating clean, user-focused interfaces and blending technology with creativity.  
+....passionate about creating clean, user-focused interfaces and blending technology with creativity.  
 Currently exploring ways to merge **AI**, **design**, and **code** into seamless digital experiences.
 
 ---
