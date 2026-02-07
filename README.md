@@ -8,7 +8,7 @@
 Currently exploring ways to merge **AI**, **design**, and **code** into seamless digital experiences.
 
 ### Tech & Tools  
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,js,html,css,python,figma,git,vite,postman" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,express,typescript,tailwind,js,html,css,python,figma,git,vite,postman,supabase" />
 
 
 ### Beyond Code  
